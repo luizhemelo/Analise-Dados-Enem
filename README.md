@@ -1,4 +1,4 @@
-# Analise de Dados do ENEM 2013-2022
+# Análise de Dados do ENEM
 
 ###### Projeto Final desenvolvido para a disciplina de Visualização de Dados em 2023/1, ministrada pela professora Raquel C. de Melo Minardi e ofertada pelo DCC-UFMG.
 
